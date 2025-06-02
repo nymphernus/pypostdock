@@ -1,14 +1,7 @@
 # pypostdock
 
-
-<code>
-python -m venv venv
-
-venv\Scripts\activate
-
-pip install -r requirements.txt
-</code>
+<code>python -m venv venv
+<code>venv\Scripts\activate
+<code>pip install -r requirements.txt
 <p></p>
-<code>
-docker-compose up -d
-</code>
+<code>docker-compose up -d
